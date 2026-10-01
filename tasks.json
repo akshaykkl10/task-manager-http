@@ -1,0 +1,22 @@
+[
+  {
+    "id": "09666a50-81c3-46b5-be4c-a45744d0562f",
+    "title": "Test HTTP API",
+    "status": "pending"
+  },
+  {
+    "id": "ff04c310-bd45-438b-9a73-50aeea2bd482",
+    "title": "Test Task for retrieval",
+    "status": "pending"
+  },
+  {
+    "id": "d7efbd02-eccb-4765-8e00-ba6cd13ce001",
+    "title": "Test Task for retrieval",
+    "status": "completed"
+  },
+  {
+    "id": "87f69229-ed50-4a03-b75a-f204a37eabe1",
+    "title": "Test Task for retrieval",
+    "status": "pending"
+  }
+]
